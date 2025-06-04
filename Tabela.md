@@ -1,14 +1,14 @@
 ## Defeitos Identificados
 
-### H1 - Login e Segurança
+### H1 - H1 - Como usuário eu gostaria de poder acessar o sistema via tela de login para poder utilizar as funcionalidades.
 
 | ID da História | Localização | Descrição do Defeito | Natureza do Defeito |
 |---------------|------------|----------------------|--------------------|
-| **HU-001**    | Critérios de aceitação | O critério que permite login sem validação em casos de pressa pode comprometer a segurança. | Inconsistência |
-| **HU-002**    | Critérios de aceitação | O requisito sobre login rápido em qualquer lugar é muito vago, sem especificações técnicas claras. | Ambiguidade |
-| **HU-003**    | Regras de negócio | A exigência de que o e-mail seja do Gmail limita os usuários, sem justificativa clara. | Informação Estranha |
-| **HU-004**    | Regras de negócio | A regra que impede caracteres especiais na senha pode reduzir a segurança do sistema. | Fato Incorreto |
-| **HU-005**    | Regras de negócio | Permitir senhas aleatórias pode dificultar a memorização pelos usuários, afetando a experiência de uso. | Omissão (não considera facilidade de uso) |
+| **H1-001**    | Critérios de aceitação | O critério que permite login sem validação em casos de pressa pode comprometer a segurança. | Inconsistência |
+| **H1-002**    | Critérios de aceitação | O requisito sobre login rápido em qualquer lugar é muito vago, sem especificações técnicas claras. | Ambiguidade |
+| **H1-003**    | Regras de negócio | A exigência de que o e-mail seja do Gmail limita os usuários, sem justificativa clara. | Informação Estranha |
+| **H1-004**    | Regras de negócio | A regra que impede caracteres especiais na senha pode reduzir a segurança do sistema. | Fato Incorreto |
+| **H1-005**    | Regras de negócio | Permitir senhas aleatórias pode dificultar a memorização pelos usuários, afetando a experiência de uso. | Omissão (não considera facilidade de uso) |
 
 ### H2 - Cadastro de Usuários
 
