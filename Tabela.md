@@ -10,7 +10,7 @@
 | **H1-004**    | Regras de negócio | A regra que impede caracteres especiais na senha pode reduzir a segurança do sistema. | Fato Incorreto |
 | **H1-005**    | Regras de negócio | Permitir senhas aleatórias pode dificultar a memorização pelos usuários, afetando a experiência de uso. | Omissão (não considera facilidade de uso) |
 
-### H2 - Cadastro de Usuários
+### H2 - Como usuário eu gostaria que o sistema tivesse uma tela de cadastro para inserir minhas informações.
 
 | ID da História | Localização | Descrição do Defeito | Natureza do Defeito |
 |---------------|------------|----------------------|--------------------|
@@ -20,7 +20,7 @@
 | **H2-009**    | Regras de negócio | A restrição da idade para no máximo 60 anos pode ser inadequada, dependendo do contexto de uso do sistema. | Informação Estranha |
 | **H2-010**    | Regras de negócio | Permitir que o nome do cachorro seja preenchido posteriormente contradiz o requisito anterior que o define como obrigatório. | Inconsistência |
 
-### H3 - Redefinição de Senha
+### H3 - Como administrador do sistema, gostaria de recuperação de senha para poder recuperar meu acesso em caso de esquecimento.
 
 | ID da História | Localização | Descrição do Defeito | Natureza do Defeito |
 |---------------|------------|----------------------|--------------------|
@@ -30,7 +30,7 @@
 | **H3-014**    | Regras de negócio | O requisito exige que a frase de segurança seja informada, mas não especifica se deve ser configurada previamente ou se há validações mínimas. | Omissão |
 | **H3-015**    | Regras de negócio | A regra que define o intervalo de 10 minutos entre solicitações pode ser insuficiente para evitar abuso do sistema. | Inconsistência |
 
-### H4 - Hábitos Alimentares
+### H4 - Como médico gostaria que o sistema tenha uma tela para cadastro de hábitos alimentares dos usuários, para poder avaliar sua rotina.
 
 | ID da História | Localização | Descrição do Defeito | Natureza do Defeito |
 |---------------|------------|----------------------|--------------------|
@@ -40,7 +40,7 @@
 | **H4-019**    | Regras de negócio | O sistema impedir o usuário de informar dias posteriores caso falte um registro anterior pode causar frustração e limitar a experiência. | Inconsistência |
 | **H4-020**    | Regras de negócio | A exigência de informar o tipo de dieta antecipadamente pode limitar usuários que ainda não têm essa informação definida. | Omissão |
 
-### H5 - Atividades Físicas
+### H5 - Como usuário eu gostaria de poder inserir as minhas atividades físicas, para poder acompanhar minha evolução mensal.
 
 | ID da História | Localização | Descrição do Defeito | Natureza do Defeito |
 |---------------|------------|----------------------|--------------------|
